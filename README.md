@@ -1,12 +1,22 @@
+<div align="center">
+
+<img src="icon_light.png" width="128" alt="GLOX Icon" />
+
 # GLOX 🎮
 
-A modern, minimal mobile puzzle game inspired by GNOME Lights Off, built with Flutter.
+**A modern, minimal mobile puzzle game inspired by GNOME Lights Off, built with Flutter.**
 
-## 🎯 About
-
-GLOX is a sleek puzzle game where you tap tiles to toggle them and their neighbors, with the goal of turning all tiles OFF. Features intelligent hints powered by linear algebra, customizable themes, and smooth animations.
+---
 
 ## ✨ Features
+
+<p align="center">
+  <img src="screenshots/s1.png" width="160" alt="Screenshot 1" />
+  <img src="screenshots/s2.png" width="160" alt="Screenshot 2" />
+  <img src="screenshots/s3.png" width="160" alt="Screenshot 3" />
+  <img src="screenshots/s4.png" width="160" alt="Screenshot 4" />
+  <img src="screenshots/s5.png" width="160" alt="Screenshot 5" />
+</p>
 
 - 🧩 **Classic Lights Off mechanics** - Tap a tile to toggle it and its 4 neighbors
 - 🧠 **Smart hint system** - Optimal solutions using Gaussian elimination over GF(2)
@@ -15,6 +25,14 @@ GLOX is a sleek puzzle game where you tap tiles to toggle them and their neighbo
 - 📱 **Responsive design** - Adapts to any screen size
 - 🎨 **Material 3 UI** - Contemporary design with rounded tiles
 - 📈 **Infinite levels** - Procedurally generated challenges
+
+---
+
+## 🎯 About
+
+GLOX is a sleek puzzle game where you tap tiles to toggle them and their neighbors, with the goal of turning all tiles OFF. Features intelligent hints powered by linear algebra, customizable themes, and smooth animations.
+
+---
 
 ## 🚀 Quick Start
 
@@ -31,6 +49,7 @@ flutter run
 # Build APK
 flutter build apk
 ```
+
 
 ## 🎮 How to Play
 
@@ -103,6 +122,5 @@ Inspired by GNOME Lights Off, reimagined with modern Flutter UI/UX.
 
 **Game Name**: GLOX  
 **Type**: Puzzle  
-**Platform**: Android  
+**Platform**: Android, Linux, Windows 
 **Framework**: Flutter
-# Glox
